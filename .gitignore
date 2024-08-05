@@ -1,0 +1,14 @@
+data
+.vscode
+real-networks
+.idea
+images
+models
+.env
+annotations
+jupyter_kernel
+__pycache__
+mri-mavericks
+project
+project_bak
+.ipynb_checkpoints
